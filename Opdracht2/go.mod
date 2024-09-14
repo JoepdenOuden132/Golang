@@ -1,3 +1,3 @@
-module Opdracht2
+module test.go
 
 go 1.22.1
