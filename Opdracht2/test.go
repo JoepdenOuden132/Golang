@@ -22,7 +22,6 @@ func speedcalculation() {
 	result := fmt.Sprintf("The speed of the planet is: %.2f km/h\n", speed)
 
 	saveToFile(result)
-
 	fmt.Print(result)
 }
 
